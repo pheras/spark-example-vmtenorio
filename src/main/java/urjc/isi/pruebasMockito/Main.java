@@ -14,7 +14,7 @@ import java.net.URISyntaxException;
 public class Main {
 
   public static String doWork() throws ClassNotFoundException, URISyntaxException {
-	  String result = new String("Hola Mundo");
+	  String result = new String("Hola Mund");
 
 	  return result;
   }
